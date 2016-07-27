@@ -1,4 +1,4 @@
-package exercises01;
+package com.vogella.javastarter.exercises1;
 
 class Person {
   String firstName = "Bill";

@@ -1,4 +1,4 @@
-package exercises01;
+package com.vogella.javastarter.exercises1;
 
 public class Main {
   public static void main(String[] args) {
